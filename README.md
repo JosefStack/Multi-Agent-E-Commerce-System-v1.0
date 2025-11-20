@@ -1,6 +1,5 @@
 # 🤖 Multi-Agent E-commerce System v1.0
 
-
 **Implements Multi-Agents | Session Memory | A2A Protocol | Uses Mock data**
 
 A production-ready multi-agent AI system demonstrating sophisticated agent coordination, conversation memory, and enterprise architecture patterns. Specialized AI agents collaborate seamlessly using the A2A protocol with persistent session memory.
@@ -63,3 +62,15 @@ Add your GOOGLE_API_KEY to .env file
 
 5. Run
 python start_system.py
+
+
+
+
+
+** **
+** **
+
+
+(*Learning AI Agents from Kaggle/Google's 5-Day Intensive AI Agents Course (Nov 2025)*)
+** **
+** **
