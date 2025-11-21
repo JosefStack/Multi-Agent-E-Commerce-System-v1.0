@@ -18,7 +18,7 @@ This isn't just another chatbot - it's a scalable microservices architecture whe
 ** **
 **🏗️ System Architecture**
 
-<img width="3155" height="1260" alt="system_architecuture" src="https://github.com/user-attachments/assets/2f196f41-60cb-4178-90fd-d9a3931e45bc" />
+<img width="2000" height="700" alt="system_architecuture" src="https://github.com/user-attachments/assets/2f196f41-60cb-4178-90fd-d9a3931e45bc" />
 
 
 
@@ -44,11 +44,12 @@ Prerequisites:
                                                                                                                                                                                                   
 **Installation**
 
-1. Clone repository                                                                                                                                                                                                  
->git clone https://github.com/yourusername/multi-agent-ecommerce-system
->
->cd versions/v1-mock-with-memory
-                                                                                                                                                                                                                                                                                           
+1. Clone repository
+```bash
+                                                                                                                                                                                      
+git clone https://github.com/yourusername/multi-agent-ecommerce-system
+cd multi-agent-ecommerce-system
+```                                                   
 
 2. Create virtual environment (optional)
 python -m venv .venv
@@ -63,7 +64,10 @@ Add your GOOGLE_API_KEY to .env file
 5. Run
 python start_system.py
 
+** **
+**Project Structure**
 
+<img width="1137" height="603" alt="image" src="https://github.com/user-attachments/assets/bd9ddc7d-9cd1-4c99-872b-37a3c43699ee" />
 
 
 
