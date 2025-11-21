@@ -47,8 +47,8 @@ Prerequisites:
 1. Clone repository
 ```bash
                                                                                                                                                                                       
-git clone https://github.com/yourusername/multi-agent-ecommerce-system
-cd multi-agent-ecommerce-system
+git clone https://github.com/yourusername/multi-agent-commerce-system-v1
+cd multi-agent-commerce-system-v1
 ```                                                   
 
 2. Create virtual environment (optional)
@@ -67,8 +67,7 @@ python start_system.py
 ** **
 **Project Structure**
 
-<img width="1137" height="603" alt="image" src="https://github.com/user-attachments/assets/bd9ddc7d-9cd1-4c99-872b-37a3c43699ee" />
-
+<img width="328" height="566" alt="image" src="https://github.com/user-attachments/assets/9cead2a0-7fb2-49cc-959b-6caff4d5b251" />
 
 
 ** **
